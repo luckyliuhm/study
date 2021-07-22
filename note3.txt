@@ -18,4 +18,4 @@ maybe
 1、git add 'xx.cpp'
 2、git commit 'xx.cpp' -m '注释'
 3、git push
-4、git clone 'http:****.git'
+4、git clone http:****.git
