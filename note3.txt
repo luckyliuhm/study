@@ -4,14 +4,16 @@ git init 把某个目录变成git可以管理的仓库
 git log –pretty=oneline 记录每次修改内容
 git reset --hard HEAD~100 回滚到前100个版本
 git reset --hard 版本号 
-notice:三处修改
+notice:三处修改(config)
 change 
 [remote "origin"]
 	url = https://github.com/luckyliuhm/DL.git
 t0
 [remote "origin"]
 	url = http://username:password@github.com/luckyliuhm/DL.git
-
+maybe  
+[remote "origin"]
+	url = https://username:password@github.com/luckyliuhm/DL.git
 0、git pull
 1、git add 'xx.cpp'
 2、git commit 'xx.cpp' -m '注释'
