@@ -19,3 +19,5 @@ maybe
 2、git commit 'xx.cpp' -m '注释'
 3、git push
 4、git clone http:****.git
+
+系统重装
